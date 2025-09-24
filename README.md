@@ -20,6 +20,8 @@ The data collection took place between **January and July 2024**.
 In total, the dataset covers **126 cyclists**, accounting for **1014 rides**.  
 Most participants completed multiple laps around the lagoon, which makes the dataset particularly rich for analyzing repeated patterns.  
 
+![Lagoa dataset cyclist tours. The x-axis corresponds to number of tours (mean=8.04, std=14.4). The last outlier corresponds to a cyclist that repeats the tour 126 times.](lagoa_example.png)
+
 ---
 
 ## Access
